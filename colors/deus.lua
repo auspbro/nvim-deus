@@ -142,7 +142,8 @@ vim.cmd([[
 	highlight! link @variable.javascript javascriptTSVariable
 ]])
 
-local black          = { '#2C323B', 235, 'black' }
+-- local black          = { '#2C323B', 235, 'black' }
+local black          = { '#1d2021', 235, 'black' }
 local gray_dark      = { '#3c3836', 237, 'darkgrey' }
 local gray_darker    = { '#242a32', 239, 'gray' }
 local gray           = { '#928374', 245, 'gray' }
